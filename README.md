@@ -23,7 +23,7 @@ I'm open to collaborating on **backend projects, mobile apps, and API-driven app
 ## 📫 How to Reach Me  
 - **GitHub**: [@ThearyCoding](https://github.com/ThearyCoding)  
 - **LinkedIn**: [Your LinkedIn Profile]  
-- **Email**: [Your Email Address]  
+- **Email**: [Chorntheary12@gmail.com]  
 
 ## ⚡ Fun Fact  
 I love **solving complex backend challenges**, building **scalable apps**, and experimenting with **new tech stacks**. 🚀  
