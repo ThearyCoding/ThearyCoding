@@ -1,7 +1,7 @@
 # 👋 Hi, I’m ThearyCoding  
 
 ## 🚀 About Me  
-I’m a passionate **Full-Stack Developer** with expertise in **Node.js, Express.js, MongoDB, Flutter, and ASP.NET**.  
+I’m a passionate **Full-Stack Developer** with expertise in **Node.js, Flutter, and ASP.NET**.  
 Currently, I’m pursuing my **third year in Management Information Systems** at **SECTEC Institute**.  
 
 ## 💡 Interests  
