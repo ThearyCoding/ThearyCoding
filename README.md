@@ -1,8 +1,8 @@
-# 👋 Hi, I’m ThearyCoding
+# 👋 Hi, I’m ThearyCoding  
 
 ## 🚀 About Me  
-I'm a passionate **Full-Stack Developer** with experience in **Node.js, Express.js, MongoDB, Flutter, and ASP.NET**.  
-Currently pursuing my third year in **Management Information Systems** at **SECTEC Institute**.  
+I’m a passionate **Full-Stack Developer** with expertise in **Node.js, Express.js, MongoDB, Flutter, and ASP.NET**.  
+Currently, I’m pursuing my **third year in Management Information Systems** at **SECTEC Institute**.  
 
 ## 💡 Interests  
 - **Backend Development** with **Node.js & ASP.NET**  
@@ -14,16 +14,17 @@ Currently pursuing my third year in **Management Information Systems** at **SECT
 ## 🌱 Currently Learning  
 - Advanced **Flutter** features (Google Maps, Riverpod)  
 - **ASP.NET Web API** with **Entity Framework & MySQL**  
-- Optimizing **Firestore** for real-time apps  
+- Optimizing **Firestore** for real-time applications  
 - **Authentication & Security** best practices  
 
 ## 💞️ Looking to Collaborate On  
-I'm open to collaborating on **backend projects, mobile apps, and API-driven applications**. If you’re working on something cool, feel free to reach out!  
+I'm open to collaborating on **backend projects, mobile apps, and API-driven applications**.  
+If you’re working on something exciting, feel free to connect!  
 
 ## 📫 How to Reach Me  
 - **GitHub**: [@ThearyCoding](https://github.com/ThearyCoding)  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Email**: [Chorntheary12@gmail.com]  
+- **LinkedIn**: [Chorn Theary](https://www.linkedin.com/in/chorn-theary-22b191332)  
+- **Email**: [chorntheary12@gmail.com](mailto:chorntheary12@gmail.com)  
 
 ## ⚡ Fun Fact  
-I love **solving complex backend challenges**, building **scalable apps**, and experimenting with **new tech stacks**. 🚀  
+I enjoy **solving complex backend challenges**, building **scalable apps**, and exploring **new technologies**. 🚀  
