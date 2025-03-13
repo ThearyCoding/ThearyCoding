@@ -2,7 +2,6 @@
 
 ## 🚀 About Me  
 I’m a passionate **Full-Stack Developer** with expertise in **Node.js, Flutter, and ASP.NET**.  
-Currently, I’m pursuing my **third year in Management Information Systems** at **SECTEC Institute**.  
 
 ## 💡 Interests  
 - **Backend Development** with **Node.js & ASP.NET**  
