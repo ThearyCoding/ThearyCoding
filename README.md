@@ -1,7 +1,7 @@
 # 👋 Hi, I’m ThearyCoding  
 
 ## 🚀 About Me  
-I’m a passionate **Full-Stack Developer** with expertise in **Node.js, Flutter, and ASP.NET**.  
+I’m a passionate **Full-Stack Developer** with expertise in **Node.js, TypeScript Flutter, and ASP.NET**.  
 
 ## 💡 Interests  
 - **Backend Development** with **Node.js & ASP.NET**  
