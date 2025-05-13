@@ -1,19 +1,28 @@
 # 👋 Hi, I’m ThearyCoding  
 
 ## 🚀 About Me  
-I’m a passionate **Full-Stack Developer** with expertise in **Node.js, TypeScript Flutter, and ASP.NET**.  
+I’m a passionate **Full-Stack Developer** with expertise in  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white&style=flat)  
 
 ## 💡 Interests  
-- **Backend Development** with **Node.js & ASP.NET**  
-- **Mobile App Development** with **Flutter**  
-- **Database Management** with **MySQL & MongoDB**  
-- **Cloud Services** (Firebase, Azure, AWS)  
+- **Backend Development** with ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) & ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white&style=flat)  
+- **Mobile App Development** with ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
+- **Database Management** with  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
+- **Cloud Services**  
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
+  ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)  
 - **API Development & Integration**  
 
 ## 🌱 Currently Learning  
-- Advanced **Flutter** features (Google Maps, Riverpod)  
-- **ASP.NET Web API** with **Entity Framework & MySQL**  
-- Optimizing **Firestore** for real-time applications  
+- Advanced ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat) features (Google Maps, Riverpod)  
+- ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white&style=flat) Web API with ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+- Optimizing ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black&style=flat) for real-time applications  
 - **Authentication & Security** best practices  
 
 ## 💞️ Looking to Collaborate On  
