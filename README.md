@@ -1,7 +1,7 @@
 # 👋 Hi, I’m ThearyCoding  
 
 ## 🚀 About Me  
-I’m a passionate **Full-Stack Developer** with expertise in:
+I’m a passionate **Software Developer** with expertise in:
 
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white&style=flat) |
 |---|---|---|---|
