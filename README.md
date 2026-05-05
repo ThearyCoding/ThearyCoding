@@ -1,38 +1,45 @@
 # 👋 Hi, I’m ThearyCoding  
 
 ## 🚀 About Me  
-I’m a passionate **Software Developer** with expertise in:
+I’m a passionate **Software Developer** with **2+ years of experience** and expertise in:
 
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white&style=flat) |
 |---|---|---|---|
-| ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat) |
-| ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=flat) | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat) |  |
-
+| ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat) | ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat) | ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat) |
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat) | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) |
+| ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat) | ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=flat) | ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat) |
 
 ---
 
 ## 💡 Interests  
 - **Backend Development** with  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) &  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)  
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white&style=flat)  
-- **Mobile App Development** with  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)  
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)  
+  ![Java Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat)  
+
+- **Frontend & Mobile App Development** with  
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat)  
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)  
+
 - **Database Management** with  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
+
 - **Cloud Services**  
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
   ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)  
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=flat)  
-- **API Development & Integration**
 
+- **API Development & Integration**
 
 ---
 
 ## 💞️ Looking to Collaborate On  
-I'm open to collaborating on **backend projects, mobile apps, and API-driven applications**.  
+I'm open to collaborating on **backend projects, mobile apps, frontend web apps, and API-driven applications**.  
 If you’re working on something exciting, feel free to connect!
 
 ---
@@ -45,4 +52,4 @@ If you’re working on something exciting, feel free to connect!
 ---
 
 ## ⚡ Fun Fact  
-I enjoy **solving complex backend challenges**, building **scalable apps**, and exploring **new technologies**. 🚀  
+I enjoy **solving complex backend challenges**, building **scalable full-stack apps**, and exploring **new technologies**. 🚀
