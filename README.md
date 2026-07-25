@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ThearyCoding  
+# 👋 Hi, I’m Chorn Theary  
 
 ## 🚀 About Me  
 I’m a passionate **Software Developer** with **2+ years of experience** and expertise in:
