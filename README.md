@@ -2,7 +2,7 @@
 
 💻 **Software Developer | Full-Stack & Mobile Developer**
 
-I'm a software developer from Cambodia with **2+ years of experience** building mobile and web applications.
+I'm a software developer with **2+ years of experience** building mobile and web applications.
 
 ### 🚀 About Me
 
