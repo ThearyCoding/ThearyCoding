@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Theary Chorn
 
-💻 **Software Developer | Full-Stack & Mobile Developer**
+💻 **Software Developer | Full-Stack**
 
 I'm a software developer with **2+ years of experience** building mobile and web applications.
 
